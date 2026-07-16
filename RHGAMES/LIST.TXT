@@ -1,6 +1,6 @@
 # path		executable		setup		cycles		title
-C:\GAMES\7DNI7NOC		!START.EXE		-		0		7 dn° a 7 noc°
-C:\GAMES\MLICNAK		TEENAGNT.EXE		SOUNDSET.EXE		0		Agent Ml°üÂ†k
+C:\GAMES\7DNI7NOC		!START.EXE		-		0		7 dn√≠ a 7 noc√≠
+C:\GAMES\MLICNAK		TEENAGNT.EXE		SOUNDSET.EXE		0		Agent Ml√≠ƒç≈à√°k
 C:\GAMES\ALONE		!START.BAT		-		0		Alone in the Dark
 C:\GAMES\AMNESIA		AMNESIA.COM		-		0		Amnesia
 C:\GAMES\VOLEJBAL		AV.EXE		-		0		Arcade Volleyball
@@ -43,15 +43,15 @@ C:\GAMES\HERETIC		HERETIC.EXE		SETUP.EXE		0		Heretic
 C:\GAMES\HEROES2		HEROES2.EXE		INSTALL.EXE		0		Heroes of Might and Magic II: The Succession Wars
 C:\GAMES\HEXEN		HEXEN.EXE		SETUP.EXE		0		Hexen: Beyond Heretic
 C:\GAMES\HOCUS		HOCUS.EXE		SETUP.EXE		0		Hocus Pocus
-C:\GAMES\HL		HL.EXE		-		0		HorkÇ lÇto
+C:\GAMES\HL		HL.EXE		-		0		Hork√© l√©to
 C:\GAMES\JAZZ		JAZZ.EXE		SETUP.EXE		0		Jazz Jackrabbit
-C:\GAMES\JMENEM		JMENEM.EXE		-		0		JmÇnem kr†le
+C:\GAMES\JMENEM		JMENEM.EXE		-		0		Jm√©nem kr√°le
 C:\GAMES\KOTHD		KOTHD.EXE		-		0		Knocking On The Heaven's Door
 C:\GAMES\LEMMINGS		CHANGEME.EXE		SETUP.EXE		0		Lemmings
 C:\GAMES\LEM2		LEM2TRNR.COM		INSTALL.EXE		0		Lemmings 2: The Tribes
 C:\GAMES\LIERO		LIERO.EXE		-		0		Liero
 C:\GAMES\LITIL		DIVIL.EXE		SETUP.EXE		0		Litil Divil
-C:\GAMES\LODE		LODE.BAT		-		0		Lodÿ
+C:\GAMES\LODE		LODE.BAT		-		0		Lodƒõ
 C:\GAMES\LOTUS3		LOTUS.EXE		-		0		Lotus III: The Ultimate Challenge
 C:\GAMES\MARIO		MARIO.EXE		-		0		Mario & Luigi
 C:\GAMES\MDUEL		MDUEL.EXE		-		0		Marshmallow Duel
@@ -83,9 +83,9 @@ C:\GAMES\DARKFRCE		DARK.EXE		-		0		Star Wars: Dark Forces
 C:\GAMES\REBEL		REBEL.EXE		-		0		Star Wars: Rebel Assault
 C:\GAMES\TIEFIGHT		TIE.EXE		INSTALL.EXE		0		Star Wars: TIE Fighter
 C:\GAMES\STUNTS		STUNTS.COM		SETUP.EXE		0		Stunts
-C:\GAMES\STINY		STINYNOC.EXE		SETUP.EXE		0		St°ny noci
+C:\GAMES\STINY		STINYNOC.EXE		SETUP.EXE		0		St√≠ny noci
 C:\GAMES\SUPAPLX		SUPAPLEX.EXE		-		0		Supaplex
-C:\GAMES\TOO		TOO.EXE		-		0		Tajemstv° Osl°ho ostrova
+C:\GAMES\TOO		TOO.EXE		-		0		Tajemstv√≠ Osl√≠ho ostrova
 C:\GAMES\TANKS		TANKS.EXE		SINSTALL.EXE		0		Tanks!
 C:\GAMES\TESTDRV3		CHANGEME.EXE		SETUP.EXE		0		Test Drive III: The Passion
 C:\GAMES\CYCLES		GPC.BAT		GPCONFIG.EXE		0		The Cycles: International Grand Prix Racing
@@ -104,10 +104,10 @@ C:\GAMES\VLAK		VLAK$.EXE		-		0		Vlak
 C:\GAMES\WACKY		CHANGEME.EXE		SETUP.EXE		0		Wacky Wheels
 C:\GAMES\WARCRAFT.2		WAR2.EXE		SETUP.EXE		0		WarCraft II: Tides of Darkness
 C:\GAMES\WARCRAFT		WAR.EXE		SETUP.EXE		0		WarCraft: Orcs & Humans
-C:\GAMES\WATTI101		WATTI.EXE		SETUP.COM		0		Watti: P˝°bÿh elf°ho dÿvüete
+C:\GAMES\WATTI101		WATTI.EXE		SETUP.COM		0		Watti: P≈ô√≠bƒõh elf√≠ho dƒõvƒçete
 C:\GAMES\WOLF3D		WOLF3D.EXE		-		0		Wolfenstein 3D
 C:\GAMES\WORMS		WORMS.BAT		-		0		Worms
 C:\GAMES\ZOOL2		ZOOL2.EXE		-		0		Zool 2
 C:\GAMES\ZORK		_ZORK1.COM		-		0		Zork: A Computerized Fantasy Simulation Game
-C:\GAMES\CERVI		START.BAT		-		0		¨ervii
-C:\GAMES\UTEK2		UTEK.EXE		-		0		Ètÿk z Domu Strachu II
+C:\GAMES\CERVI		START.BAT		-		0		ƒåervii
+C:\GAMES\UTEK2		UTEK.EXE		-		0		√ötƒõk z Domu Strachu II

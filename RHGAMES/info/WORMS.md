@@ -10,9 +10,9 @@ European
 Computer Trade Show to develop and
 publish the game with Team 17., 1995)*
 
-Tato hra st†le üek† na nÿkoho,
-kdo j° nap°Áe hezkÏ popis.
-Prozat°m je zde p†r odstavcÖ z
+Tato hra st√°le ƒçek√° na nƒõkoho,
+kdo j√≠ nap√≠≈°e hezk√Ω popis.
+Prozat√≠m je zde p√°r odstavc≈Ø z
 MobyGames.
 
 This game is still waiting for someone
@@ -44,7 +44,7 @@ it. After attacking, the turn ends.
 
 https://www.mobygames.com/game/340/worms/
 
-# Ovl†d†n°/Controls:
+# Ovl√°d√°n√≠/Controls:
 **F1**     Toggle this help screen
 **F2**     Loop between title and
        in-programs screen shots

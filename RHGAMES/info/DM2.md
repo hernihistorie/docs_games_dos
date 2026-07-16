@@ -13,9 +13,9 @@ delays, versions for Western computers
 (PC, Amiga and Mac) followed in 1995.,
 1993)*
 
-Tato hra st†le üek† na nÿkoho,
-kdo j° nap°Áe hezkÏ popis.
-Prozat°m je zde p†r odstavcÖ z
+Tato hra st√°le ƒçek√° na nƒõkoho,
+kdo j√≠ nap√≠≈°e hezk√Ω popis.
+Prozat√≠m je zde p√°r odstavc≈Ø z
 MobyGames.
 
 This game is still waiting for someone
@@ -40,7 +40,7 @@ credited on:
 
 https://www.mobygames.com/game/914/dungeon-master-ii-skullkeep/
 
-# Ovl†d†n°/Controls:
+# Ovl√°d√°n√≠/Controls:
 **F1**     Toggle this help screen
 **F2**     Loop between title and
        in-programs screen shots
