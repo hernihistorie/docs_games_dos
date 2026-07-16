@@ -43,7 +43,10 @@ rloader thumbnails must be standard 4 bits-per-pixel uncompressed Windows bitmap
 
 You can use any command line tool that supports image manipulation. For example using ImageMagick, which is a free and open source tool, you can write:
 
+```bash
 magick.exe input.png -resize 320 -dither Ordered -depth 4 -colors 14 -type palette bmp3:output.bmp
+```
+
 where:
 
 `-resize 320` rescales the image to 320 pixels

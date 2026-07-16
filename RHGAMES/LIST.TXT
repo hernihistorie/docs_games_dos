@@ -1,0 +1,113 @@
+# path		executable		setup		cycles		title
+C:\GAMES\7DNI7NOC		!START.EXE		-		0		7 dn¡ a 7 noc¡
+C:\GAMES\MLICNAK		TEENAGNT.EXE		SOUNDSET.EXE		0		Agent Ml¡Ÿå k
+C:\GAMES\ALONE		!START.BAT		-		0		Alone in the Dark
+C:\GAMES\AMNESIA		AMNESIA.COM		-		0		Amnesia
+C:\GAMES\VOLEJBAL		AV.EXE		-		0		Arcade Volleyball
+C:\GAMES\BATCHESS		CHESS.EXE		-		0		Battle Chess
+C:\GAMES\BATISL2		BI2.BAT		INSTALL.EXE		0		Battle Isle 2
+C:\GAMES\BELEGOST		BELEGOST.EXE		-		0		Belegost
+C:\GAMES\STEELSKY		SKY.EXE		INSTALL.EXE		0		Beneath a Steel Sky
+C:\GAMES\BMENACE		BMENACE1.EXE		-		0		Bio Menace
+C:\GAMES\BLOCKOUT		BL.EXE		-		0		Block Out
+C:\GAMES\BLOOD		BLOOD.EXE		SETUP.EXE		0		Blood
+C:\GAMES\BM		BM.EXE		SETUP.EXE		0		Break Machine
+C:\GAMES\CDMAN		CD-MAN.EXE		-		0		CD-Man
+C:\GAMES\CHAMMURA		CHAMMURA.EXE		-		0		Chamurabi
+C:\GAMES\C28		COLONY28.EXE		SETUP.EXE		0		Colony 28
+C:\GAMES\REDALERT		CHANGEME.EXE		SETUP.EXE		0		Command & Conquer: Red Alert
+C:\GAMES\KEEN4		KEEN4E.EXE		-		0		Commander Keen 4: Secret of the Oracle
+C:\GAMES\KEEN6		K6DEMO.EXE		-		0		Commander Keen 6: Aliens Ate My Babysitter!
+C:\GAMES\KDREAMS		KDREAMS.EXE		-		0		Commander Keen in Keen Dreams
+C:\GAMES\CORRID7		RUN.BAT		SETUP.EXE		0		Corridor 7: Alien Invasion
+C:\GAMES\CC1		CC1.EXE		-		0		Crystal Caves
+C:\GAMES\DOGS		DOGS.EXE		-		0		Cyberdogs
+C:\GAMES\DAVE		DAVE.EXE		-		0		Dangerous Dave
+C:\GAMES\DESCENT		DESCENT.BAT		SETUP.EXE		0		Descent
+C:\GAMES\ALADDIN		ALADDIN.EXE		SETSND.EXE		0		Disney's Aladdin
+C:\GAMES\DUCKTALE		DUCKTALE.EXE		-		0		Disney's Duck Tales: The Quest for Gold
+C:\GAMES\LVIKRAL		LIONKING.EXE		INSTALL.EXE		0		Disney's The Lion King
+C:\GAMES\DOOM2		DOOM2.EXE		SETUP.EXE		0		Doom II: Hell on Earth
+C:\GAMES\DRAGONSPH		DRAGON.BAT		INSTALL.EXE		0		Dragonsphere
+C:\GAMES\DUKE3D		DUKE3D.EXE		SETUP.EXE		0		Duke Nukem 3D
+C:\GAMES\DUKE3DA		!START.BAT		SETUP.EXE		0		Duke Nukem 3D: Atomic Edition
+C:\GAMES\DUKE2		NUKEM2.EXE		-		0		Duke Nukem II
+C:\GAMES\DUNE1		DUNE.BAT		INSTALL.EXE		0		Dune
+C:\GAMES\DUNE2		DUNE2.EXE		SETUP.EXE		0		Dune II: Battle for Arrakis
+C:\GAMES\DM		DM.EXE		INSTALL.EXE		0		Dungeon Master
+C:\GAMES\DM2		DM2.BAT		SETUP.EXE		0		Dungeon Master II: The Legend of Skullkeep
+C:\GAMES\DYNA		DYNA.EXE		-		0		Dyna Blaster
+C:\GAMES\FALCON3		FALCON3.EXE		-		0		Falcon 3.0
+C:\GAMES\GOLDAXE		GOLD.EXE		-		0		Golden Axe
+C:\GAMES\HERETIC		HERETIC.EXE		SETUP.EXE		0		Heretic
+C:\GAMES\HEROES2		HEROES2.EXE		INSTALL.EXE		0		Heroes of Might and Magic II: The Succession Wars
+C:\GAMES\HEXEN		HEXEN.EXE		SETUP.EXE		0		Hexen: Beyond Heretic
+C:\GAMES\HOCUS		HOCUS.EXE		SETUP.EXE		0		Hocus Pocus
+C:\GAMES\HL		HL.EXE		-		0		Hork‚ l‚to
+C:\GAMES\JAZZ		JAZZ.EXE		SETUP.EXE		0		Jazz Jackrabbit
+C:\GAMES\JMENEM		JMENEM.EXE		-		0		Jm‚nem kr le
+C:\GAMES\KOTHD		KOTHD.EXE		-		0		Knocking On The Heaven's Door
+C:\GAMES\LEMMINGS		CHANGEME.EXE		SETUP.EXE		0		Lemmings
+C:\GAMES\LEM2		LEM2TRNR.COM		INSTALL.EXE		0		Lemmings 2: The Tribes
+C:\GAMES\LIERO		LIERO.EXE		-		0		Liero
+C:\GAMES\LITIL		DIVIL.EXE		SETUP.EXE		0		Litil Divil
+C:\GAMES\LODE		LODE.BAT		-		0		LodØ
+C:\GAMES\LOTUS3		LOTUS.EXE		-		0		Lotus III: The Ultimate Challenge
+C:\GAMES\MARIO		MARIO.EXE		-		0		Mario & Luigi
+C:\GAMES\MDUEL		MDUEL.EXE		-		0		Marshmallow Duel
+C:\GAMES\MICRO		MICRO.EXE		INSTALL.EXE		0		Micro Machines
+C:\GAMES\MICRO2		MM2.BAT		INSTALL.EXE		0		Micro Machines 2: Turbo Tournament
+C:\GAMES\MMM		MMM.EXE		-		0		MMM
+C:\GAMES\MORTAL		START.BAT		-		0		Mortal Kombat
+C:\GAMES\OMF		OMF.EXE		SETUP.EXE		0		One Must Fall 2097
+C:\GAMES\PLANETX3		PX3_VGA.COM		-		0		Planet X3
+C:\GAMES\PODRAZ		PODRAZ.EXE		-		0		Podraz
+C:\GAMES\PREHIST2		PRE2.EXE		-		0		Prehistorik 2
+C:\GAMES\PRINCE		PRINCE.EXE		-		0		Prince of Persia
+C:\GAMES\PRINCE2		PRINCE2.EXE		SETUP.EXE		0		Prince of Persia 2: The Shadow & The Flame
+C:\GAMES\PUSHOVER		PUSH.EXE		INSTALL.BAT		0		Pushover
+C:\GAMES\RCR		RCR.EXE		-		0		Retro City Rampage: 486
+C:\GAMES\ROGUE		ROGUE.EXE		-		0		Rogue: The Adventure Game
+C:\GAMES\SABOTEUR		SABOTEUR.EXE		-		0		Saboteur
+C:\GAMES\SAMMAX		SAMNMAX.EXE		INSTALL.EXE		0		Sam & Max: Hit the Road
+C:\GAMES\SCORCHED		SCORCH.EXE		-		0		Scorched Earth
+C:\GAMES\SHENZEN		SHENZHEN.EXE		-		0		Shenzhen Solitaire
+C:\GAMES\SIMCITY		SIMCITY.EXE		-		0		SimCity
+C:\GAMES\SC2000		SC2000.EXE		INSTALL.EXE		0		SimCity 2000
+C:\GAMES\SITRIS		SITRIS.EXE		-		0		SITris
+C:\GAMES\SKIORDIE		S.EXE		INSTALL.BAT		0		Ski or Die
+C:\GAMES\PIZZA		PIZZA.EXE		-		0		Skunny: Save Our Pizzas!
+C:\GAMES\SKYROADS		SKYROADS.EXE		-		0		SkyRoads
+C:\GAMES\SOKOBAN		SKB.EXE		-		0		Soko-Ban
+C:\GAMES\DARKFRCE		DARK.EXE		-		0		Star Wars: Dark Forces
+C:\GAMES\REBEL		REBEL.EXE		-		0		Star Wars: Rebel Assault
+C:\GAMES\TIEFIGHT		TIE.EXE		INSTALL.EXE		0		Star Wars: TIE Fighter
+C:\GAMES\STUNTS		STUNTS.COM		SETUP.EXE		0		Stunts
+C:\GAMES\STINY		STINYNOC.EXE		SETUP.EXE		0		St¡ny noci
+C:\GAMES\SUPAPLX		SUPAPLEX.EXE		-		0		Supaplex
+C:\GAMES\TOO		TOO.EXE		-		0		Tajemstv¡ Osl¡ho ostrova
+C:\GAMES\TANKS		TANKS.EXE		SINSTALL.EXE		0		Tanks!
+C:\GAMES\TESTDRV3		CHANGEME.EXE		SETUP.EXE		0		Test Drive III: The Passion
+C:\GAMES\CYCLES		GPC.BAT		GPCONFIG.EXE		0		The Cycles: International Grand Prix Racing
+C:\GAMES\SUMMER		SUMMER.EXE		-		0		The Games: Summer Challenge
+C:\GAMES\WINTER		WINTER.EXE		-		0		The Games: Winter Challenge
+C:\GAMES\KYRANDIA		MAIN.EXE		SETUP.EXE		0		The Legend of Kyrandia: Book One
+C:\GAMES\SETTLERS		S2.EXE		SETUP.EXE		0		The Settlers II: Veni, Vidi, Vici
+C:\GAMES\DOOM		DOOM.EXE		SETUP.EXE		0		The Ultimate Doom
+C:\GAMES\TTDX		TYCOON.EXE		SETUP.EXE		0		Transport Tycoon Deluxe
+C:\GAMES\TUNNELER		TUNNELER.EXE		-		0		Tunneler
+C:\GAMES\TYRIAN		TYRIAN.EXE		SETUP.EXE		0		Tyrian
+C:\GAMES\UFO		UFO.BAT		SETUP.EXE		0		UFO: Enemy Unknown
+C:\GAMES\UGH		UGH.EXE		INSTALL.BAT		0		Ugh!
+C:\GAMES\VINYL		GODDESS.EXE		SETUP.EXE		0		Vinyl Goddess from Mars
+C:\GAMES\VLAK		VLAK$.EXE		-		0		Vlak
+C:\GAMES\WACKY		CHANGEME.EXE		SETUP.EXE		0		Wacky Wheels
+C:\GAMES\WARCRAFT.2		WAR2.EXE		SETUP.EXE		0		WarCraft II: Tides of Darkness
+C:\GAMES\WARCRAFT		WAR.EXE		SETUP.EXE		0		WarCraft: Orcs & Humans
+C:\GAMES\WATTI101		WATTI.EXE		SETUP.COM		0		Watti: Pý¡bØh elf¡ho dØvŸete
+C:\GAMES\WOLF3D		WOLF3D.EXE		-		0		Wolfenstein 3D
+C:\GAMES\WORMS		WORMS.BAT		-		0		Worms
+C:\GAMES\ZOOL2		ZOOL2.EXE		-		0		Zool 2
+C:\GAMES\ZORK		_ZORK1.COM		-		0		Zork: A Computerized Fantasy Simulation Game
+C:\GAMES\CERVI		START.BAT		-		0		¬ervii
+C:\GAMES\UTEK2		UTEK.EXE		-		0		étØk z Domu Strachu II

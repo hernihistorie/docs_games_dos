@@ -1,0 +1,67 @@
+# Mortal Kombat
+*(unknown developer, 1992)*
+
+Tato hra st le Ÿek  na nØkoho,
+kdo j¡ nap¡çe hezkì popis.
+Prozat¡m je zde p r odstavc… z
+MobyGames.
+
+This game is still waiting for someone
+to write a nice description. For now,
+here's few paragraphs from MobyGames:
+
+Five hundred years ago, an ancient and
+well respected Shaolin fighting
+tournament, held every 50 years, was
+corrupted by an evil and elderly
+sorcerer by the name of Shang Tsung.
+Shang was accompanied by Prince Goro,
+a warrior of the Shokan race (a
+four-armed half-human / half-dragon).
+Knowing that if ten tournaments in a
+row were won by the Outworld champion,
+the Earth Realm would be conquered by
+evil and fall into darkness, Shang
+entered Goro in the tournament and had
+him defeat the great Kung Lao. Goro
+has been reigning supreme as the
+undefeated fighting champion for five
+hundred years now. As the last
+tournament required draws near,
+Raiden, Thunder God and protector of
+the Earth Realm, enacts a plan to tip
+the scales in the humans' favor. Seven
+fighters step into the arena on Shang
+Tsung's mysterious island: Shaolin
+warrior Liu Kang, Special Forces
+operative Sonya Blade, the mercenary
+thug Kano, fame-seeking actor Johnny
+Cage, the ice-wielding Lin Kuei
+warrior Sub-Zero and his undead
+adversary Scorpion, and Raiden
+himself.
+
+Mortal Kombat is a side-scrolling
+fighting game. Fighting is set as
+one-on-one combat, allowing each
+player to perform a variety of
+punches, kicks, and special moves in
+order to defeat their opponent. When
+the opponent faces their second round
+loss, the winner can perform a
+finishing move called a "Fatality" on
+the loser. The Fatality is a move
+unique to each fighter that
+graphically kills the loser in a
+blood-soaked finale.
+
+https://www.mobygames.com/game/599/mortal-kombat/
+
+# Ovl d n¡/Controls:
+**F1**     Toggle this help screen
+**F2**     Loop between title and
+       in-programs screen shots
+**F3**     Show program info
+**F5**     Run configuration program
+**F10**    Exit this program
+**Enter**  Launch **selected** list entry
